@@ -1,6 +1,7 @@
-# CIS395Assignment5
-CIS395Assignment5
+# CIS385_Assignment5
+CIS385_Assignment5
 
+Create an Angular project using the provided REST API.
 
 Run these commands to create a sample MongoDb collection
 ```javascript
